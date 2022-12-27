@@ -1,3 +1,6 @@
+"""
+Prints
+"""
 #Utilizado aspas simples e aspas duplas para printar informação na tela do ususario
 print('Essa string é um "texto"')
 print("Essa string é um 'texto'")
