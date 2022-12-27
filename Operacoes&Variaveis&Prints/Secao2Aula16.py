@@ -1,3 +1,6 @@
+"""
+Operadores
+"""
 # Operadores aritmeticos
 print('Subtração "-" = ', 10-5)
 print('Mutiplicação "*" = ', 10*5)
