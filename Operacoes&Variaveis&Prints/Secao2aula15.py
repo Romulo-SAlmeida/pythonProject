@@ -1,5 +1,6 @@
-#Declarando valores e strings e mostrandos seus tipos de dados
-
+"""
+Declarando valores e strings e mostrandos seus tipos de dados
+"""
 #Dados strings 'str'
 print('João', type('João'))
 
