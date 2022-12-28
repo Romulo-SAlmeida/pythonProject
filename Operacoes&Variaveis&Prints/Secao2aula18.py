@@ -1,5 +1,5 @@
 """
-Trabalhando com variaveis e atividade com printagem na tela do usuario
+Trabalhando com variaveis e atividade com printagem na tela do usuario.
 """
 peso = 70.56
 altura = 1.80
