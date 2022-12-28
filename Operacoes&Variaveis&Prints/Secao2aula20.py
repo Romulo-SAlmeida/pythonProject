@@ -1,5 +1,5 @@
 """
-Formatação de Strings
+Formatação de Strings.
 """
 nome = 'luiz'
 idade = 32
