@@ -1,5 +1,5 @@
 """
-Utilizando 'Input' para salvar dados em uma variavel
+Utilizando 'Input' para salvar dados em uma variavel.
 """
 valorA = int(input('Digite o primeiro valor '))
 valorB = int(input("Digite o segundo valor "))
