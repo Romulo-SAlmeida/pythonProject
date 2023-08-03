@@ -2,10 +2,22 @@
 
 """
 1- Faça um programa que peça ao usuario para digitar um número inteiro, informe
-se este número é para ou impar. CAso o usuario não digite um número inteiro, 
+se este número é para ou impar. Caso o usuario não digite um número inteiro, 
 informa que não é um número inteiro
 
 """
+Numero= input('Digite algum valor inteiro   ')
+
+try:
+    
+    Numero_inteiro = float(Numero)
+    if Numero_inteiro % 2 == 0:
+        print('Esse número é par')
+    else:
+        print('Esse número é impar')
+except:
+    print('Digite um número inteiro')
+
 
 """
 2-Faça um programa que pergunte a hora ao usuario e baseando-se no horario descrito, exiba a 
