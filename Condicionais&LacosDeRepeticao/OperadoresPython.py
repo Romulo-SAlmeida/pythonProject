@@ -1,5 +1,5 @@
 """
-Trabalhando com operadores de comparação
+Trabalhando com operadores de comparação.
 """
 
 maior = 2>1   #Coparação que especifica que 2 é maior que 1
