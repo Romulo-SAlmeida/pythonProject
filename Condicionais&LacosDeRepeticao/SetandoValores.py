@@ -1,5 +1,5 @@
 """
-Ultilizando 'input' para coletar dados de usuário
+Ultilizando 'input' para coletar dados de usuário.
 """
 numero1 = input('Digite o primeiro valor: ')     #Com o 'input' eu salvo os valores que o usuario digitou em format string
 numero2 = input('Digite o segundo valor: ')
