@@ -1,5 +1,5 @@
 """"
-Trabalhando com comparações
+Trabalhando com comparações.
 """
 # comparador de igualdade
 a = 2
