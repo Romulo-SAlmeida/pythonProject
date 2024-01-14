@@ -1,5 +1,5 @@
 """
-Ultilizando condicionais 
+Ultilizando condicionais. 
 """
 entrada = input('Você deseja sair do sistema?')
 
